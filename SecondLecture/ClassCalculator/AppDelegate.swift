@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Calculator
+//  ClassCalculator
 //
 //  Created by abdelrahman mohamed on 7/9/17.
 //  Copyright © 2017 abdelrahman mohamed. All rights reserved.
